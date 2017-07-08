@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Base16 Color Schemes",
+		"ColorSchemeEditor",
+		"Emmet",
+		"Package Control",
+		"ScopeAlways",
+		"Theme - One Dark",
+		"Theme - Spacegray"
+	]
+}
