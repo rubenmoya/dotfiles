@@ -1,6 +1,1 @@
 .DS_Store
-
-# Sublime Text settings
-sublime/User/*
-!sublime/User/One-Dark.tmTheme
-!sublime/User/*.sublime-settings

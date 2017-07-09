@@ -77,6 +77,7 @@ brew tap caskroom/versions
 brew cask install google-chrome
 brew cask install sublime-text-dev
 brew cask install iterm2
+brew cask install spectacle
 brew cask install spotify
 
 # Remove outdated versions from the cellar.

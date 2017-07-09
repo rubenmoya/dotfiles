@@ -5,13 +5,8 @@
 	],
 	"installed_packages":
 	[
-		"Babel",
-		"Base16 Color Schemes",
-		"ColorSchemeEditor",
 		"Emmet",
-		"Package Control",
-		"ScopeAlways",
-		"Theme - One Dark",
+		"One Dark Color Scheme",
 		"Theme - Spacegray"
 	]
 }
